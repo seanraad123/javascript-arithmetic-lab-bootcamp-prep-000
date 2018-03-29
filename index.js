@@ -34,4 +34,6 @@ function preserveDecimal(n){
   return parseFloat(n)
 }
 
-function 
+function preserveDecimal(n){
+  return parseInt('BLA!', 10)
+}
