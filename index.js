@@ -31,9 +31,9 @@ function makeInt(n){
 }
 
 function preserveDecimal(n){
-  return parseFloat(n)
+  return parseInt('BLA!', 10)
 }
 
 function preserveDecimal(n){
-  return parseInt('BLA!', 10)
+  return parseFloat(n)
 }
